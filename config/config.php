@@ -13,7 +13,7 @@ define('INCLUDE_PATH_FULL','http://localhost/search_service/app/Views/pages/');
 //const MAIL_PASSWORD = '';
 //const MAIL_PORT     = '';
 
-define('DATABASE','search_services');
-define('HOST','localhost');
-define('USER','root');
+define('DATABASE','');
+define('HOST','');
+define('USER','');
 define('PASSWD','');
