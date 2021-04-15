@@ -12,7 +12,7 @@ class MainView
     private $footer;
 
     const TITULO = 'Produto | Serviços';
-    public $menuItems = array('Inicio','Sobre','Contato');
+    public $menuItems = array('Home','Sobre','Contato','Cadastro');
 
     public function __construct($fileName,$header = 'header',$footer = 'footer')
     {
